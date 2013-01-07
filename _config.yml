@@ -85,7 +85,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : yed_liu
+      short_name : baoti
     #livefyre :
     #  site_id : 123
     #intensedebate :
