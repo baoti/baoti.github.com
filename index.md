@@ -9,7 +9,6 @@ Welcome to baoti!
 
 ## About this blog
 
-    
     class Baoti(JekyllBootstrap):
         def __init__(self):
             self.birthday = "{{ site.birthday }}"
@@ -28,5 +27,5 @@ Read [more](/pages/about.html).
 
 ## To-Do
 
-Learn Racket.
+Learn [Racket](http://racket-lang.org/).
 
