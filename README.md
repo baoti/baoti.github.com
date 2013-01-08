@@ -1,5 +1,7 @@
 # baoti
 
+[What's it?](http://baoti.github.com/)
+
 It is a blog.
 Powered by [Jekyll Bootstrap][], [Twitter Bootstrap][] and [Jekyll][].
 
